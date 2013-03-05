@@ -20,15 +20,25 @@ Feel free to use or extend or develop it in any way.
 The code is developed in Processing.
 
 Dependencies : The code needs the following libraries not provided here :
-	- 	OpenKinect :
-				Daniel Shiffman
-				Basic Library functionality example
-				http://www.shiffman.net
-				https://github.com/shiffman/libfreenect/tree/master/wrappers/java/processing
-	- 	JMyron : 
-				WebCamXtra
-				Myron for Processing
-				http://webcamxtra.sourceforge.net/download.shtml
+
+- 	OpenKinect :
+
+Daniel Shiffman
+
+Basic Library functionality example
+
+http://www.shiffman.net
+
+https://github.com/shiffman/libfreenect/tree/master/wrappers/java/processing
+
+
+- 	JMyron : 
+
+		WebCamXtra
+
+		Myron for Processing
+
+		http://webcamxtra.sourceforge.net/download.shtml
 				
 -------------------------------------------
 	
