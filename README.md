@@ -2,7 +2,9 @@ Tangible_Carom_Tutor
 ====================
 
 Team members : Soham Sankaran, Chintak Sheth, Gaurang Sadekar, Ramanathan and Kshitiz Sethia.
+
 The prototype was developed during the MIT Media Lab Design Innovation Lab  2013 at PESIT, Bangalore. 
+
 ------------------------------------------
 
 This is a tangible carom tutor which basically projects the direction in which the user should hit a carom coin to score, depending on the position of the striker. We used Kinect (for coin and finger recognition) and a projector. We used Processing for the project.
